@@ -6,10 +6,14 @@ LEDs are controlled using PWM with DMA for faster transmission. Projects include
 
 Timer1 pwm output:
 - PC0
+
 BME280 I2C:
 - SDA PB9
 - SCL PB8
-ADC channel1: PA0
+
+ADC channel1: 
+- PA0
+
 HC-05 USART:
 - RX PC11
 - TX PC10
