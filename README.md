@@ -4,7 +4,8 @@ LEDs are controlled using PWM with DMA for faster transmission. Projects include
 
 # Pinout
 
-Timer1 pwm output: PC0
+Timer1 pwm output:
+- PC0
 BME280 I2C:
 - SDA PB9
 - SCL PB8
